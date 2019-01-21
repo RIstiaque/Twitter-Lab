@@ -1,0 +1,17 @@
+A total of 2567 tweets were analyzed.
+Hashtag                              Count
+maga                                 689
+trump                                409
+resist                               119
+impeachtrump                         70
+trumptrain                           54
+theresistance                        45
+china                                39
+roymoore                             38
+trumprussia                          37
+makeamericagreatagain                37
+potus                                34
+resistance                           31
+usa                                  31
+tcot                                 29
+gop                                  28
